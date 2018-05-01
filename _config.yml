@@ -1,15 +1,15 @@
 # Site settings
-title: GG Blog
-SEOTitle: 格锅的博客
+title: JieGe Blog
+SEOTitle: Mr Shang
 # 首页背景图片
 header-img: img/post-bg-desk.jpg
-email: geguol@163.com
+email: shi620502@163.com
 # 网站介绍
 description: "静心修炼,精心打磨."
-keyword: "BY, BY Blog, 格锅的博客,Android, lot, AI,TDD"
-url: "http://geguol.github.io"          # your host, for absolute URL
+keyword: "Android, lot, AI,TDD"
+url: "http://shangshijie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/geguol/geguol.github.io" # you code repository
+github_repo: "https://github.com/shangshijie/shangshijie.github.io" # you code repository
 
 # 右侧边栏
 sidebar: true                           # whether or not using Sidebar.
@@ -21,11 +21,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # 社交网络
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     miao-xing-ren-32-79
-github_username:    geguol
-facebook_username:  profile.php?id=100024102210518
-jianshu_username:   68a953b9d536
-twitter_username:   GeguoMr
+# zhihu_username:     miao-xing-ren-32-79
+github_username:    shangshijie
+# facebook_username:  profile.php?id=100024102210518
+# jianshu_username:   68a953b9d536
+# twitter_username:   GeguoMr
 
 
 
@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://geguol.cc"
+        href: "http://shangshijie.cc"
     },{
         title: "Linux学习之旅",
         href: "https://www.jianshu.com/nb/5470392"
